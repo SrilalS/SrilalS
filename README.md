@@ -1,5 +1,6 @@
 ### Hello There 👋
 - 🌱 I’m currently learning.
+[![SrilalS](https://github-readme-stats.vercel.app/api?username=SrilalS)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **SrilalS/SrilalS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
