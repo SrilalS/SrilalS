@@ -1,5 +1,5 @@
 ### Hello There 👋
-- 🌱 I’m currently learning. https://srilalsachintha.me/
+- I’m currently learning. https://srilalsachintha.me/
 - Nothing but the Rain.
 
 ![SrilalS](https://github-readme-stats.vercel.app/api?username=SrilalS&count_private=true&hide=stars&include_all_commits=true&line_height=24&show_icons=true&theme=algolia)
