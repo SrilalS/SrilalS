@@ -1,3 +1,3 @@
 ### Hello There 👋
-- I’m currently learning. [https://srilalsachintha.dev/](https://srilalsachintha.dev/)
+- I’m currently learning. [SrilalS.Github.io](https://srilals.github.io/)
 - Nothing but the Rain.
